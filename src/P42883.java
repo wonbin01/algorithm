@@ -1,4 +1,4 @@
-class Solution {
+class P42883 {
     public String solution(String number, int k) {
         StringBuilder sb = new StringBuilder();
         int remove = k;
